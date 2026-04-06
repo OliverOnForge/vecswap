@@ -5,8 +5,6 @@
 
 **vecswap** es una biblioteca ligera de Python diseñada para la manipulación, transformación y filtrado eficiente de vectores (listas de enteros). Es ideal para proyectos que requieren operaciones geométricas simples, lógica de arreglos o limpieza de datos sin depender de librerías externas pesadas.
 
-[View in English]
-
 ## 🚀 Instalación
 
 Actualmente, puedes usar **vecswap** clonando el repositorio o copiando el archivo `tools.py` en tu directorio de trabajo:
@@ -71,13 +69,13 @@ Controla que los valores no excedan rangos específicos.
 
 Para mantener la calidad del código y la coherencia del proyecto, por favor revisa nuestras guías detalladas antes de enviar un Pull Request:
 
-👉 [Leer Guía de Contribución](/doc/)
+👉 [Leer Guía de Contribución](CONTRIBUTING-es.md)
 
 ## 📃 Licencia
 
 Este proyecto se distribuye bajo la lincencia MIT.
 
-[MIT LICENCE](LICENCE.md)
+[MIT LICENCE](../LICENCE)
 
 ## 📬 Contacto
 

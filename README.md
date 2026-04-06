@@ -1,7 +1,7 @@
 
 # vecswap 📐
 
-[Ver en Español](doc/CONTRIBUTING-es.md)
+[Ver en Español](doc/README-es.md)
 
 **vecswap** is a lightweight Python library designed for the efficient manipulation, transformation, and filtering of vectors (integer lists). It is ideal for projects requiring simple geometric operations, array logic, or data cleaning without relying on heavy external dependencies.
 
@@ -77,7 +77,7 @@ To maintain code quality and project consistency, please review our detailed gui
 
 This project is distributed under the **MIT License**. This means you are free to use, modify, and distribute the software as long as the original license and copyright notice are included.
 
-See the [LICENSE](LICENSE.md) file for more details.
+See the [LICENSE](LICENSE) file for more details.
 
 ## 📬 Contact
 
